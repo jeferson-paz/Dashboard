@@ -8,7 +8,7 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas globais,
 
 1. **Qual o valor total vendido?**
    - Primeira pergunta respondida com visualização de um gráfico cartão para mostrar o valor total de vendas.
-   - <img src="img/cartao.png" alt="Valor Total Vendido" width="500"/>
+   - <img src="img/cartao.png" alt="Valor Total Vendido"/>
 
 2. **Quantas vendas foram realizadas por categoria de produto?**
 3. **Quantas vendas foram realizadas por país considerando a prioridade de entrega?**
