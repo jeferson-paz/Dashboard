@@ -8,24 +8,24 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas globais,
 
 1. **Qual o valor total vendido?**
    - Primeira pergunta respondida com visualização de um gráfico cartão para mostrar o valor total de vendas.
-   - ![Valor Total Vendido](img/cartao2.png)
+   - <img src="img/cartao2.png" alt="Valor Total Vendido" width="300"/>
 
 2. **Quantas vendas foram realizadas por categoria de produto?**
    - Segunda pergunta respondida com visualização de um gráfico de pizza, para mostrar quantas vendas foram realizadas por categoria de produto.
-   - ![Vendas Realizadas por Categoria de Produto](img/pizza.png)
+   - <img src="img/pizza.png" alt="Vendas Realizadas por Categoria de Produto" width="300"/>
 
 3. **Quantas vendas foram realizadas por país considerando a prioridade de entrega?**
    - Terceira pergunta respondida com visualização de um gráfico de barras empilhadas, para mostrar quantas vendas foram realizadas por país considerando a prioridade de entrega.
-   - ![Vendas Realizadas por País Considerando a Prioridade de Entrega](img/3.png)
+   - <img src="img/3.png" alt="Vendas Realizadas por País Considerando a Prioridade de Entrega" width="300"/>
 
 4. **Qual foi a média de desconto nas vendas por subcategorias de produto?**
-   - Quarta pergunta respondida com visualização de um gráfico de barras clasterizado, para mostrar Qual foi a média de desconto nas vendas por subcategorias de produto.
-   - ![Média de Desconto nas Vendas por Subcategorias de Produto](img/5.png)
-     
+   - Quarta pergunta respondida com visualização de um gráfico de barras clusterizado, para mostrar a média de desconto nas vendas por subcategorias de produto.
+   - <img src="img/5.png" alt="Média de Desconto nas Vendas por Subcategorias de Produto" width="300"/>
+
 5. **Quais países tiveram maior média de valor de venda?**   
-  - Quinta pergunta respondida com visualização de um gráfico de mapa, para mostrar Quais países tiveram maior média de valor de venda.
-  - ![Países Maior Média de Valor de Venda](img/4.png)
-    
+   - Quinta pergunta respondida com visualização de um gráfico de mapa, para mostrar os países com maior média de valor de venda.
+   - <img src="img/4.png" alt="Países com Maior Média de Valor de Venda" width="300"/>
+
 ## Funcionalidades do Dashboard
 
 - **Filtragem de Dados:** O usuário pode filtrar os dados por ano, segmento e país para obter insights específicos.
