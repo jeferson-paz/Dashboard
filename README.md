@@ -19,6 +19,9 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas globais,
    - ![Valor Total Vendido](img/3.png)
 
 4. **Qual foi a média de desconto nas vendas por subcategorias de produto?**
+   - Quarta pergunta respondida com visualização de um gráfico de mapa, para mostrar Qual foi a média de desconto nas vendas por subcategorias de produto.
+   - ![Valor Total Vendido](img/4.png)
+
 5. **Quais países tiveram maior média de valor de venda? Demonstre em um mapa.**
 
 ## Funcionalidades do Dashboard
