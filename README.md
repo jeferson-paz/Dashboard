@@ -12,18 +12,20 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas globais,
 
 2. **Quantas vendas foram realizadas por categoria de produto?**
    - Segunda pergunta respondida com visualização de um gráfico de pizza, para mostrar quantas vendas foram realizadas por categoria de produto.
-   - ![Valor Total Vendido](img/pizza.png)
+   - ![Vendas Realizadas por Categoria de Produto](img/pizza.png)
 
 3. **Quantas vendas foram realizadas por país considerando a prioridade de entrega?**
    - Terceira pergunta respondida com visualização de um gráfico de barras empilhadas, para mostrar quantas vendas foram realizadas por país considerando a prioridade de entrega.
-   - ![Valor Total Vendido](img/3.png)
+   - ![Vendas Realizadas por País Considerando a Prioridade de Entrega](img/3.png)
 
 4. **Qual foi a média de desconto nas vendas por subcategorias de produto?**
-   - Quarta pergunta respondida com visualização de um gráfico de mapa, para mostrar Qual foi a média de desconto nas vendas por subcategorias de produto.
-   - ![Valor Total Vendido](img/4.png)
-
-5. **Quais países tiveram maior média de valor de venda? Demonstre em um mapa.**
-
+   - Quarta pergunta respondida com visualização de um gráfico de barras clasterizado, para mostrar Qual foi a média de desconto nas vendas por subcategorias de produto.
+   - ![Média de Desconto nas Vendas por Subcategorias de Produto](img/5.png)
+     
+5. **Quais países tiveram maior média de valor de venda?**   
+  - Quinta pergunta respondida com visualização de um gráfico de mapa, para mostrar Quais países tiveram maior média de valor de venda.
+  - ![Países Maior Média de Valor de Venda](img/4.png)
+    
 ## Funcionalidades do Dashboard
 
 - **Filtragem de Dados:** O usuário pode filtrar os dados por ano, segmento e país para obter insights específicos.
