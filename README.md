@@ -11,8 +11,8 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas globais,
    - ![Valor Total Vendido](img/cartao.png)
 
 2. **Quantas vendas foram realizadas por categoria de produto?**
-- Segunda pergunta respondida com visualização de um gráfico de pizza, para mostrar quantas vendas foram realizadas por categoria de produto.
-- ![Valor Total Vendido](img/pizza.png)
+   - Segunda pergunta respondida com visualização de um gráfico de pizza, para mostrar quantas vendas foram realizadas por categoria de produto.
+   - ![Valor Total Vendido](img/pizza.png)
 
 3. **Quantas vendas foram realizadas por país considerando a prioridade de entrega?**
 4. **Qual foi a média de desconto nas vendas por subcategorias de produto?**
