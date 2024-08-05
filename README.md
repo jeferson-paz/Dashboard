@@ -8,23 +8,23 @@ O objetivo deste dashboard é fornecer uma visão abrangente das vendas globais,
 
 1. **Qual o valor total vendido?**
    - Primeira pergunta respondida com visualização de um gráfico cartão para mostrar o valor total de vendas.
-   - <img src="img/grafico_de_cartao.png" alt="Valor Total Vendido" width="300"/>
+   - [<img src="img/grafico_de_cartao.png" alt="Valor Total Vendido" width="300"/>](img/grafico_de_cartao.png)
 
 2. **Quantas vendas foram realizadas por categoria de produto?**
    - Segunda pergunta respondida com visualização de um gráfico de pizza, para mostrar quantas vendas foram realizadas por categoria de produto.
-   - <img src="img/grafico_de_pizza.png" alt="Vendas Realizadas por Categoria de Produto" width="300"/>
+   - [<img src="img/grafico_de_pizza.png" alt="Vendas Realizadas por Categoria de Produto" width="300"/>](img/grafico_de_pizza.png)
 
 3. **Quantas vendas foram realizadas por país considerando a prioridade de entrega?**
    - Terceira pergunta respondida com visualização de um gráfico de barras empilhadas, para mostrar quantas vendas foram realizadas por país considerando a prioridade de entrega.
-   - <img src="img/gráfico_de_barras_empilhadas.png" alt="Vendas Realizadas por País Considerando a Prioridade de Entrega" width="300"/>
+   - [<img src="img/gráfico_de_barras_empilhadas.png" alt="Vendas Realizadas por País Considerando a Prioridade de Entrega" width="300"/>](img/gráfico_de_barras_empilhadas.png)
 
 4. **Qual foi a média de desconto nas vendas por subcategorias de produto?**
    - Quarta pergunta respondida com visualização de um gráfico de barras clusterizado, para mostrar a média de desconto nas vendas por subcategorias de produto.
-   - <img src="img/gráfico_de_barras_clusterizado.png" alt="Média de Desconto nas Vendas por Subcategorias de Produto" width="300"/>
+   - [<img src="img/gráfico_de_barras_clusterizado.png" alt="Média de Desconto nas Vendas por Subcategorias de Produto" width="300"/>](img/gráfico_de_barras_clusterizado.png)
 
 5. **Quais países tiveram maior média de valor de venda?**   
    - Quinta pergunta respondida com visualização de um gráfico de mapa, para mostrar os países com maior média de valor de venda.
-   - <img src="img/grafico_de_mapa.png" alt="Países com Maior Média de Valor de Venda" width="300"/>
+   - [<img src="img/grafico_de_mapa.png" alt="Países com Maior Média de Valor de Venda" width="300"/>](img/grafico_de_mapa.png)
 
 ## Funcionalidades do Dashboard
 
