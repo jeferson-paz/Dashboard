@@ -63,7 +63,3 @@ Este dashboard fornece uma análise detalhada das vendas globais, permitindo ide
 ---
 
 Feito por: Jeferson Paz
-
-[Cursos na Data Science Academy](https://www.datascienceacademy.com.br)
-
-[Meu GitHub](https://github.com/jeferson-paz)
